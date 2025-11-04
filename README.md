@@ -1,1 +1,13 @@
-# rust-wh
+# 🚀 Rust-Wh — Your Ultimate Rust Server Monitoring & Management Tool!  
+
+Designed for server admins and developers, Rust-Wh offers quick access to real-time server stats, player activity, and easy configuration management. Built with performance and security at its core, this tool helps keep your Rust servers running smoothly and efficiently.  
+
+✨ Features include:  
+
+🔍 Real-time server monitoring — stay updated instantly!
+🎮 Player & resource stats — know your server's pulse!
+⚙️ Simple configuration management — tweak settings with ease!
+🚀 High performance & reliability — built to handle heavy loads!
+🌐 Compatibility with various Rust versions — flexible for your needs!
+🔧 Extendable functionality — customize to fit your project!
+🛠️ Rust-Wh is your go-to solution for keeping your Rust servers optimized, secure, and running at peak performance!  
